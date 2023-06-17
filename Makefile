@@ -1,5 +1,5 @@
 COMMIT_SHA ?= $(shell git rev-parse HEAD)
-REPONAME ?= signoz
+REPONAME ?= coolboi567
 IMAGE_NAME ?= signoz-otel-collector
 CONFIG_FILE ?= ./config/default-config.yaml
 DOCKER_TAG ?= latest
